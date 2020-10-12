@@ -1,5 +1,5 @@
 # Watch how to make Easy chocolate chip cookies
-![Chocolate Chip Cookies](/htdocs/git/cookies/cookies.jpg "chocolate chip cookies")
+![Chocolate Chip Cookies](cookies.jpg)
 
 #Ingredients
 • 225g (1 cup) caster sugar
